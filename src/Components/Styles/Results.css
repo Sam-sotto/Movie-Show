@@ -1,0 +1,11 @@
+.results{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.results >  div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
